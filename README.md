@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/aamingaa&right_color=red" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/csdn?id=wangzirui32&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&theme=dark&count_private=true)
+![](https://stats.justsong.cn/api/csdn?id=aamingaa&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
-![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=aamingaa&theme=github)
