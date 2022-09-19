@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to YuYueSummer's Github Homepage!
+# Hi 🎉 Welcome to Aaminga's Github Homepage!
 
 <!--
 **aamingaa/aamingaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://blog.csdn.net/wangzirui32"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
+<a href="https://blog.csdn.net/aming2?type=lately"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+
+<!--
 <a href="https://space.bilibili.com/1513364019"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wangzirui32&right_color=red" />
+-->
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/aamingaa&right_color=red" />
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
