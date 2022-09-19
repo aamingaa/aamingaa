@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact)
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://activity-graph.herokuapp.com/graph?username=aamingaa&theme=github)
 
