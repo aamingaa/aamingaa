@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
 
+<!--
 <a href="https://blog.csdn.net/aming2?type=lately"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+-->
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/aamingaa&right_color=red" />
 </p>
