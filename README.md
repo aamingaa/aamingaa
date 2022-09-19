@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact)
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact)
 
