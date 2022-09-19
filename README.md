@@ -19,20 +19,15 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
-
-<!--
-<a href="https://blog.csdn.net/aming2?type=lately"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
--->
-
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/aamingaa&right_color=red" />
 </p>
 
+<!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&theme=dark&layout=compact)
+-->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&theme=dark&count_private=true)
 
-![](https://stats.justsong.cn/api/csdn?id=aming2&theme=dark)
-
-<!--
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
--->
 ![](https://activity-graph.herokuapp.com/graph?username=aamingaa&theme=github)
+
+![](https://stats.justsong.cn/api/csdn?id=aming2&theme=dark)
