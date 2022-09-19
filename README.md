@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aamingaa&theme=github)
 
+<!--
 ![](https://stats.justsong.cn/api/csdn?id=aming2&theme=dark)
+-->
