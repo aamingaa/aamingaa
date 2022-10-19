@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20My%20Friend!&font=Roboto" />
 
-
+- 🌱 I’m currently learning Dubbo、RocketMQ and Service Mesh
+- 👯 I’m looking to collaborate on System Design
+- 📫 How to reach me: 774066625@qq.com
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
  -->
