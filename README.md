@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
+ -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
