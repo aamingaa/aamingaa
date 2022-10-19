@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20My%20Friend!&font=Roboto" />
 
-<p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/aamingaa&right_color=red" />
-</p>
 
-<!--
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact)
--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
 
