@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to Aamingaa's Github Homepage!
+# Hi Bro🎉 Welcome to My Github Homepage!
 
 <!--
 **aamingaa/aamingaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
