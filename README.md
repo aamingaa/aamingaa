@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 ![](https://activity-graph.herokuapp.com/graph?username=aamingaa&theme=github)
-
+-->
 <!--
 ![](https://stats.justsong.cn/api/csdn?id=aming2&theme=dark)
 -->
