@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamingaa&layout=compact&theme=dark)
  -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true&layout=compact)
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamingaa" /> </div>
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
