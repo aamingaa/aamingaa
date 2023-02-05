@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20My%20Friend!&font=Roboto" />
 
 - 🔭 You can call me aming or xiaoming(小明)
-- 🌱 I’m currently learning Dubbo、RocketMQ and Service Mesh
+- 🌱 I’m currently learning Dubbo、Service Mesh and Web3
 - 👯 I’m looking to collaborate on System Design
 - 📫 How to reach me: 774066625@qq.com
 
