@@ -28,8 +28,10 @@ Here are some ideas to get you started:
  -->
 ![aamingaa's github stats](https://github-readme-stats.vercel.app/api?username=aamingaa)
 
-<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamingaa" /> </div>
+<div> <img src="https://github-readme-stats.vercel.app/api?user=aamingaa" /> </div>
 
+<!-- <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamingaa" /> </div>
+ -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
