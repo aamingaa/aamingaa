@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  -->
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aamingaa&show_icons=true&count_private=true&layout=compact)
  -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamingaa)](https://github.com/anuraghazra/github-readme-stats)
+![aamingaa's github stats](https://github-readme-stats.vercel.app/api?username=aamingaa)
 
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamingaa" /> </div>
 
